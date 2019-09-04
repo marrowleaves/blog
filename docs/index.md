@@ -1,3 +1,1 @@
-# Blog
-
-[markdown-syntax](/markdown-syntax)
+* [markdown-syntax](/markdown-syntax)
