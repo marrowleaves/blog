@@ -152,5 +152,5 @@ Check the results:
 
 ### Optimization (todo)
 
-http://www.numberworld.org/y-cruncher/internals/radix-conversion.html
-https://en.wikipedia.org/wiki/Exponentiation_by_squaring
+* see [Radix Conversion](http://www.numberworld.org/y-cruncher/internals/radix-conversion.html)
+* see [Exponentiation by squaring](https://en.wikipedia.org/wiki/Exponentiation_by_squaring)

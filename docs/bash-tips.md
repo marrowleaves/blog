@@ -7,7 +7,7 @@ I've been learning Linux recently and this post is to argue against some points 
 
 The article is about 'why you should using shell inside emacs'. As a vim user I'd think this is some kind of abusing usage of emacs in the 'emacs-as-an-operating-system' style.
 
-### Edit Commands in an Editor
+## Edit commands in an editor
 
 The first thing the author mentioned is to editing current command in emacs and then execute it directly.
 
@@ -19,7 +19,7 @@ see [edit-and-execute-command](https://www.gnu.org/software/bash/manual/html_nod
 
 see [Lisp Eval](https://www.gnu.org/software/emacs/manual/html_node/emacs/Lisp-Eval.html)
 
-### Edit history commands
+## Edit history commands
 
 The second benefit the author mentioned is to editing history commands.
 
@@ -41,7 +41,7 @@ see [Command Line Editing](https://www.gnu.org/software/bash/manual/html_node/Co
 Use `set -o vi` to change this behaviour.
 And in `vi` mode, press `v` to enter visual mode vi.
 
-### Interesting Key Interpertation in Emacs under Windows
+## Interesting Key Interpertation in Emacs under Windows
 
 I noticed that to execute `Ctrl-Meta` commands on my Windows box, these combinations will work: `CTRL_L+ALT_L`, `CTRL_R+ALT_R` and `CTRL_R+ALT_L`, but `CTRL_L+ALT_R` won't work.
 

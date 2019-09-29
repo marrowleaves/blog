@@ -11,10 +11,10 @@ date: 2016-01-06 14:37:02
     * this is different to the possible results of the `typeof` operator
         * which are `"boolean"`, `"string"`, `"number"`, `"object"`, `"undefined"`,`"symbol"`, `"bigint"` and `"function"`
         * `typeof document.all` evaluates to `"undefined"` is a **willful violation**
-        * ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof
+        * see [typeof](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)
 * by **primitive** we mean **not object**
     * this also implies that values of primitive types **has no methods**, although `"abc".length"` is valid, there's an implicit primitive wrapper object there
-    * ref: https://developer.mozilla.org/en-US/docs/Glossary/Primitive
+    * see [Primitive](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)
 * by **type** we mean **set of values**, so that the `Undefined` type is a set of only one element (singleton) `{ undefiend }`, the `Boolean` type is a set of two elements: `{ true, false }` and the `String` type is an infinite set (and accidentally a monoid)
     
 
@@ -62,10 +62,10 @@ they are distinguished into:
     * this is used to choose the **Number value for x** where **x** represents an exact real mathematical quantity (which might even be an irrational number such as π)
     * according to IEEE 754-2008 this procedure is called ***round to nearest, ties to even***
 
-* ref: https://2ality.com/2012/04/number-encoding.html
-* ref: http://steve.hollasch.net/cgindex/coding/ieeefloat.html
-* ref: https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
-* ref: https://en.wikipedia.org/wiki/IEEE_754
+* see [How numbers are encoded in JavaScript](https://2ality.com/2012/04/number-encoding.html)
+* see [IEEE Standard 754 Floating Point Numbers](http://steve.hollasch.net/cgindex/coding/ieeefloat.html)
+* see [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+* see [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754)
 
 ## Get the Bits
 
