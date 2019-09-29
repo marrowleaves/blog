@@ -1,1 +1,1 @@
-* [markdown-syntax](/markdown-syntax)
+* [(test post) Markdown Syntax](/markdown-syntax)
