@@ -1,5 +1,5 @@
 * [Bash Tips](https://blog.marrowleaves.com/bash-tips)
-* [JS Numbers](https://blog.marrowleaves.com/js-numbers.html) <!-- this one requires the `.html` postfix, maybe due to the `js-` prefix -->
+* [Numbers in JS](https://blog.marrowleaves.com/numbers-in-js)
 * [Print Numbers](https://blog.marrowleaves.com/print-numbers)
-
+* [Trampoline](https://blog.marrowleaves.com/trampoline)
 * [(test post) Markdown Syntax](https://blog.marrowleaves.com/markdown-syntax)

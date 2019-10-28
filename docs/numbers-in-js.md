@@ -1,5 +1,5 @@
 ---
-title: JS Numbers
+title: Numbers in JS
 date: 2016-01-06 14:37:02
 ---
 
